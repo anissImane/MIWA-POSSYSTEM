@@ -1,4 +1,4 @@
-name := "miwa-possytem"
+name := "miwa-possystem"
 
 version := "1.0"
 
