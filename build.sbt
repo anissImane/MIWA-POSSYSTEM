@@ -2,7 +2,7 @@ name := "miwa-possystem"
 
 version := "1.0"
 
-lazy val `miwa-possytem` = (project in file(".")).enablePlugins(PlayJava)
+lazy val `miwa-possystem` = (project in file(".")).enablePlugins(PlayJava)
 
 scalaVersion := "2.11.6"
 
